@@ -14,7 +14,7 @@ Dino Runner is a browser-based clone of the popular Chrome Dino game. It is a si
 To get a local copy of the project, use the following command in your terminal or command prompt:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Milind-Yadav07/Dino-Runner.git
 ```
 
 
